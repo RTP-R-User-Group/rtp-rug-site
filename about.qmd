@@ -1,0 +1,35 @@
+---
+title: Meet organizers
+---
+
+::: grid
+::: g-col-4
+![](images/NicholasMasel.jpeg)
+:::
+
+::: g-col-8
+**Nicholas Masel** is a Associate Director Innovation Team Lead at Johnson & Johnson.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/nicholasmasel/)
+
+[GitHub](https://github.com/nicholas-masel)
+:::
+:::
+
+::: grid
+::: g-col-4
+![](images/NataliaAndriychuk.jpeg)
+:::
+
+::: g-col-8
+**Natalia Andriychuk** is a Statistical Data Scientist at Pfizer.
+
+<div>
+
+[Connect on LinkedIn](https://www.linkedin.com/in/natalia-andriychuk-0209b1ba/)
+
+[GitHub](https://github.com/nandriychuk)
+
+</div>
+:::
+:::

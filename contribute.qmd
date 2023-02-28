@@ -1,0 +1,33 @@
+---
+title: "How can I contribute?"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: email us
+      href: mailto:rtp.r.usergroup@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/RTP-R-User-Group
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+**Would like to become co-organizer, contribute or present?**
+
+We are always looking for the R enthusiasts who would like to share
+their knowledge, experience, and expertise with our community!
+
+If you are passionate about R and want to showcase your skills to a
+group of like-minded individuals, this is an excellent opportunity for
+you. No matter your level of experience, we welcome presentations on a
+wide range of topics including helpful R tips, getting started with R,
+data wrangling/visualization, statistical analysis, machine learning,
+and more.
+
+Our R User Group meetings provide an informal and supportive environment
+for learning and sharing knowledge about R. To submit a presentation
+proposal, please send us a brief abstract of your talk, along with your
+name and contact information to rtp.r.usergroup\@gmail.com, and indicate
+that you are interested in presenting at our RTP R User Group.
