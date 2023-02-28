@@ -1,0 +1,13 @@
+---
+title: "Welcome to our Meetup Page!"
+description: "The meetup page is now live! Refer for upcoming events!"
+author:
+  - name: "Natalia Andriychuk"
+date: 02-28-2023
+categories: NEWS # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](meetup-image.png)
+
+We are happy to announce that we have a [Meetup page](https://www.meetup.com/rtp-r-user-group/) where you can find all past and upcoming events. The first event is yet to be announced so stay tuned!

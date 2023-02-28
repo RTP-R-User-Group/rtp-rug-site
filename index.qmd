@@ -1,0 +1,23 @@
+---
+title: "RTP R User Group"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: email us
+      href: mailto:rtp.r.usergroup@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/RTP-R-User-Group
+---
+
+Welcome to the RTP R User Group Website!
+
+To join our meetup group, please visit or [Meetup](https://www.meetup.com/rtp-r-user-group/) page!
+
+The RTP R User Group is an excellent resource for anyone interested in learning more about R, an open-source programming language and software environment for statistical computing and graphics.
+
+By joining the RTP R User Group, you can connect with other like-minded individuals and learn from their experiences. You can also gain access to quality tutorials and resources on R and related topics, as well as participate in events and workshops that can help you become more proficient in the language.
+
+People of all levels are welcome to attend! The group also provides support and advice to those who are just starting out in R. With the help of the RTP R User Group, you can take advantage of the many benefits that R can offer.
