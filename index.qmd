@@ -2,7 +2,7 @@
 title: "RTP R User Group"
 about:
   template: trestles
-  image: profile.jpg
+  # image: profile.jpg
   links:
     - icon: envelope
       text: email us
